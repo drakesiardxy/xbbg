@@ -118,7 +118,7 @@ Index:
     is_fut: True
   - tickers: [HSI, HSCEI, HCT]
     exch: EquityHongKong
-  - tickers: [HI, HC]
+  - tickers: [HI, HC, HCT]
     exch: FuturesHongKong
     freq: M
     is_fut: True
