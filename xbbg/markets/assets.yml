@@ -71,7 +71,7 @@ Equity:
     exch: EquityTaiwan
   - exch_codes: [HK]
     exch: EquityHongKong
-  - exch_codes: [CH, CG, CS]
+  - exch_codes: [CH, CG, CS, C1, C2]
     exch: EquityChina
   - exch_codes: [IN, IS, IB]
     exch: EquityIndia
